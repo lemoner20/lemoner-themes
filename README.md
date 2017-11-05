@@ -11,4 +11,4 @@ Reference:
     Demo: https://demo.iruo.cc/
     Code: https://coding.net/u/Arco-X/p/H-Code/git/archive/master
 
-https://raw.githubusercontent.com/lemoner20/lemoner-themes/master/usr/themes/lemoner/screenshot.png
+![image](https://raw.githubusercontent.com/lemoner20/lemoner-themes/master/usr/themes/lemoner/screenshot.png)
