@@ -16,3 +16,4 @@ Reference:
 Screenshot:
 
 ![image](https://raw.githubusercontent.com/lemoner20/lemoner-themes/master/usr/themes/lemoner/screenshot.png)
+![image](https://raw.githubusercontent.com/lemoner20/lemoner-themes/master/usr/themes/lemoner/screenshot2.png)  ![image](https://raw.githubusercontent.com/lemoner20/lemoner-themes/master/usr/themes/lemoner/screenshot3.png)
